@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.scrollback": 5000,
+    "terminal.integrated.stickyScroll.maxLineCount": 5
+}
